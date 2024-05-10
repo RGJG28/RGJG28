@@ -20,7 +20,7 @@
 <td width="50%">
 <h3 align="center">Consola Retro en Raspberry Pi</h3>
 <div align="center">
-<a href="https://github.com/dargleon/waybackgm" target="_blank"><img src="https://imgur.com/a/E9PPPsh" width="400" alt="WaybackGM"></a>
+<a href="https://github.com/dargleon/waybackgm" target="_blank"><img src="https://i.imgur.com/yh9QXbW.png" width="400" alt="WaybackGM"></a>
 <p>
 <a href="https://github.com/dargleon/waybackgm" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
