@@ -6,6 +6,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMC629fewnL7HH-mXp_lZJA?style=social)](https://www.youtube.com/@rodrigojimenezgarcia8344?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/rgjg28?style=social)](https://github.com/RGJG28)
+![](https://komarev.com/ghpvc/?username=RGJG28&label=PROFILE+VIEWS)
 ![LaTex](https://camo.githubusercontent.com/e9e239179df81c16fe006b23767d5c02f39b567ee48659832a5ce29089dd986c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465)
 ![Python](https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
 ![C](https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
@@ -53,4 +54,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RGJG28&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![](https://komarev.com/ghpvc/?username=RGJG28&label=PROFILE+VIEWS)
+
